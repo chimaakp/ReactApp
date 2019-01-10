@@ -1,0 +1,23 @@
+.Bar{
+    text-align: left;
+    background: rgba(0, 0, 0, 0);
+    padding: 30px;
+    margin: 10px;
+}
+
+.Bar-Col{
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    float: left;
+    display:inline-block;
+    color: white;
+
+}
+.Bar-Col:hover{
+    color: #FE7F2D;
+}
+.Bar-Col:active{
+    background-color: #619B8A;
+
+}
